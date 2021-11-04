@@ -1,0 +1,67 @@
+.navbar {
+    background-color: white;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    z-index: 1;
+}
+
+.navbar li {
+    display: inline-block;
+    padding: 30px 20px;
+}
+
+.navbar a {
+    text-decoration: none;
+    color: black;
+}
+
+
+.header {
+    background-image: url(../Resources/Images/hand\ drawn\ star\ seamless\ \ Desktop\ Wallpaper.png);
+    background-size: cover;
+    background-color: darksalmon;
+    margin-top: 50px;
+    text-align: center;
+    padding: 70px 0;
+}
+
+#photo {
+  height: 500px;
+  width: 500px;
+  filter: drop-shadow(1px 1px 1px white);
+}
+
+#daily {
+    color: darksalmon;
+    font-size: 60px;
+    text-align: center;
+}
+
+.bold {
+    font-weight: 900;
+}
+
+a.blue {
+    color: blue
+}
+
+#top-button {
+    background-color:saddlebrown;
+    color: white;
+    font-weight: bold;
+}
+
+#submit {
+    background-color:saddlebrown;
+    color: white;
+    font-weight: bold;
+}
+
+#optin {
+  background-image: url(../Images/hand\ drawn\ star\ seamless\ \ Desktop\ Wallpaper.png);
+  text-align: center;
+}
+ul {
+    list-style-type: none;
+  }
